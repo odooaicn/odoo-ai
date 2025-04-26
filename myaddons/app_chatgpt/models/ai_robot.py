@@ -297,6 +297,7 @@ GPT-3	A set of models that can understand and generate natural language
             }
             client = OpenAI(
                 api_key=self.openapi_api_key,
+                base_url=o_url.replace("/chat/completions", ""),  # 移除 /chat/completions 部分
                 timeout=R_TIMEOUT
             )
             response = client.chat.completions.create(
