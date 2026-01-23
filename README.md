@@ -1,10 +1,10 @@
-# odoo智能版，全球1300万+用户使用的全开源ERP
+# odoo智能版，全球1700万+用户使用的全开源ERP
  [odooai.cn 提供](https://www.odooai.cn "odoo智能版，社区版中文开箱即用整强版")
 ---------------------------------------
 
 ## 概述
 
-### odoo智能版，包含odoo18,odoo17,odoo16,odoo15,odoo14,odoo13,odoo12,odoo11,odoo10的各版本分支。
+### odoo智能版，包含odoo19,odoo18,odoo17,odoo16,odoo15,odoo14,odoo13,odoo12,odoo11,odoo10的各版本分支。
 - 全功能：Ai驱动的odoo包含企业基本的CRM营销获客，生产、质检、PLM、MES、条码、批次、销售、电商、采购、仓管、维修、odoo财务、项目、网课、人劳、报销等全面功能。
 - 全版本：支持Odoo官方社区版CE，Odoo官方企业版EE，Odoo云端Saas版odoo.sh，Odoo私有部署自定义版。
 - 高性能：64位版本性能会比32位高很多，包括高效指令及大内存更快巡址。对高资源消耗的odoo，使用64位是十分有必要的。
@@ -14,10 +14,10 @@
 - 全面中文：此Repo中使用官方中文包，更精准可用的欧度智能中文版，将带来更好的用户体验和正确的使用方法，欢迎咨询 [odooai.cn 欧度智能官方中文站](https://www.odooai.cn)
 #### Odoo官方源码直接一键下载
 注意，因为repo限制，本身不再提供odoo原生源码，请自行下载后置于 source 目录下。
-- https://nightly.odoocdn.com/18.0/nightly/src/odoo_18.0.latest.zip
-- https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.latest.zip
+- https://nightly.odoocdn.com/19.0/nightly/src/odoo_19.0.latest.zip
+- https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.latest.zip
 #### Odoo其它全版本含移动端下载
-欧度智能当前运营使用 odoo18官方社区版，增加了核心中文化及Ai模块，其它版本下载请访问
+欧度智能当前运营使用 odoo19官方社区版，增加了核心中文化及Ai模块，其它版本下载请访问
 -  [odooai.cn 欧度智能官方中文站的odoo官方全版本源码下载](https://www.odooapp.cn/odoo-download) 
 
 ### 包含全面中国化模块，Ai服务中心模块，odoo版权设置模块，odoo使用教程中文版，odoo开发教程中文版
@@ -30,31 +30,31 @@
 
 ## 重要说明
 本版本下载后，建议windows下将本repo内文件放在以下目录下使用
-- d:\odoo18-x64
+- d:\odoo19-x64
 - [odoo绿色版下载地址-Gitee-odooai.cn 提供](https://gitee.com/odooai/odoo-ai "odoo智能版，社区版中文开箱即用整强版")。
-- [odoo绿色版下载地址-Gihub-odooai.cn 提供](https://github.com/guohuadeng/odoo18-x64 "odoo智能版，社区版中文开箱即用整强版")。
+- [odoo绿色版下载地址-Gihub-odooai.cn 提供](https://github.com/guohuadeng/odoo19-x64 "odoo智能版，社区版中文开箱即用整强版")。
 
 ## 版本信息
 1. python 3.10.11, 64位
 2. postgresql 16.4 ,64位
 3. Nginx 1.15.5， 64位
-4. Odoo 18社区版，20241220版
+4. Odoo 19社区版，20260123版
 5. 增加 sphinx 及 tx_client 库，用于文档及翻译
 6. 本地执行 gi.bat，会将原始odoo的最新版clone到本地 .\source_git，执行 gu.bat 更新
 7. 对断点调试的处理， 如果更新了新版odoo，将 .\fixed 目录内容覆盖 .\source 内容
-wget https://www.odooai.cn/download/odoo_install_18.sh -N && bash odoo_install_18.sh 2>&1 | tee odoo.log
+wget https://www.odooai.cn/download/odoo_install_19.sh -N && bash odoo_install_19.sh 2>&1 | tee odoo.log
 
 ## 全新功能，更快速度
-Odoo 18 发版通知及各种新特性及功能介绍 - 广州欧度智能 | odoo专业实施开发
-[https://www.odooai.cn/website/search?search=odoo18&order=published_date](https://www.odooai.cn/website/search?search=odoo18 odoo18)
+Odoo 19 发版通知及各种新特性及功能介绍 - 广州欧度智能 | odoo专业实施开发
+[https://www.odooai.cn/website/search?search=odoo19&order=published_date](https://www.odooai.cn/website/search?search=odoo18 odoo18)
 
 ## 技术说明
 64位版本性能会比32位高很多，包括高效指令及大内存更快巡址。对高资源消耗的odoo，使用64位是十分有必要的。
 本版本在使用64位的基础上，对postgresql进行了优化，并使用nginx进行反向代理，实现了longpolling，可以使用odoo的桌面消息通知，也不会经常报错了。
 在windows上搭建了一个完整的高性能 Odoo 环境。
 因速度原因，不再支持一键更新至最新版，请手工高速下载后解压覆盖 /source 目录文件。
-https://nightly.odoocdn.com/18.0/nightly/src/odoo_18.0.latest.zip
-https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.latest.zip
+https://nightly.odoocdn.com/19.0/nightly/src/odoo_19.0.latest.zip
+https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.latest.zip
 
 ## 功能说明
 ### Odoo是全球第一开源ERP
