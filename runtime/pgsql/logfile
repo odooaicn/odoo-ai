@@ -1,0 +1,776 @@
+2025-04-20 21:06:52.748 CST [42036] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2025-04-20 21:06:52.754 CST [42036] ÈÕÖ¾:  ÎŞ·¨°ó¶¨IPv4µØÖ·"127.0.0.1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2025-04-20 21:06:52.754 CST [42036] ÌáÊ¾:  ÊÇ·ñÓĞÆäËü postmaster ÒÑ¾­ÔÚ¶Ë¿Ú 5432 ÉÏÔËĞĞÁË? Èç¹ûÃ»ÓĞ, ÇëµÈ´ı¼¸ÃëÖÓºóÈ»ºóÔÙÖØÊÔ.
+2025-04-20 21:06:52.754 CST [42036] ÈÕÖ¾:  ÎŞ·¨°ó¶¨IPv6µØÖ·"::1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2025-04-20 21:06:52.754 CST [42036] ÌáÊ¾:  ÊÇ·ñÓĞÆäËü postmaster ÒÑ¾­ÔÚ¶Ë¿Ú 5432 ÉÏÔËĞĞÁË? Èç¹ûÃ»ÓĞ, ÇëµÈ´ı¼¸ÃëÖÓºóÈ»ºóÔÙÖØÊÔ.
+2025-04-20 21:06:52.754 CST [42036] ¾¯¸æ:  ÎŞ·¨Îª "localhost" ´´½¨¼àÌıÌ×½Ó×Ö
+2025-04-20 21:06:52.754 CST [42036] ÖÂÃü´íÎó:  ÎŞ·¨´´½¨TCP/IPÌ×½Ó×Ö
+2025-04-20 21:06:52.756 CST [42036] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2025-04-20 21:10:03.802 CST [42164] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2025-04-20 21:10:03.805 CST [42164] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2025-04-20 21:10:03.805 CST [42164] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2025-04-20 21:10:03.937 CST [37804] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2025-04-20 21:10:01 CST
+2025-04-20 21:10:03.965 CST [42164] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-04-20 21:10:51.629 CST [42164] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2025-04-20 21:10:51.630 CST [48868] ´íÎó:  ÓÉÓÚÓÃ»§ÇëÇó¶øÕıÔÚÈ¡Ïû²éÑ¯
+2025-04-20 21:10:51.636 CST [42164] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2025-04-20 21:10:51.637 CST [51068] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2025-04-20 21:10:51.637 CST [18800] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2025-04-20 21:10:51.644 CST [42164] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 48868) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2025-04-20 21:10:51.658 CST [57560] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2025-04-20 21:10:51.662 CST [57560] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2025-04-20 21:10:51.724 CST [57560] ÈÕÖ¾:  checkpoint complete: wrote 45 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.004 s, sync=0.038 s, total=0.067 s; sync files=12, longest=0.004 s, average=0.004 s; distance=253 kB, estimate=253 kB; lsn=0/15AAE88, redo lsn=0/15AAE88
+2025-04-20 21:10:51.745 CST [42164] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2025-05-04 19:38:05.516 CST [4596] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2025-05-04 19:38:05.519 CST [4596] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2025-05-04 19:38:05.519 CST [4596] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2025-05-04 19:38:05.632 CST [16580] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2025-04-20 21:10:51 CST
+2025-05-04 19:38:05.689 CST [4596] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2025-05-04 19:43:05.605 CST [1416] ÈÕÖ¾:  checkpoint starting: time
+2025-05-04 19:47:17.860 CST [1416] ÈÕÖ¾:  checkpoint complete: wrote 2499 buffers (15.3%); 0 WAL file(s) added, 0 removed, 1 recycled; write=250.087 s, sync=2.142 s, total=252.256 s; sync files=986, longest=0.008 s, average=0.003 s; distance=19075 kB, estimate=19075 kB; lsn=0/284BD50, redo lsn=0/284BD18
+2026-02-11 19:57:45.202 CST [5620] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-02-11 19:57:45.206 CST [5620] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-02-11 19:57:45.206 CST [5620] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-02-11 19:57:45.316 CST [19952] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÖĞ¶Ï£»ÉÏÒ»´ÎµÄÆô¶¯Ê±¼äÊÇÔÚ2025-05-04 19:47:17 CST
+2026-02-11 19:57:46.737 CST [19952] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³Ã»ÓĞÕıÈ·µÄ¹Ø±Õ; ´¦ÓÚ×Ô¶¯»Ö¸´×´Ì¬ÖĞ
+2026-02-11 19:57:46.745 CST [19952] ÈÕÖ¾:  redo ÔÚ 0/284BD18 ¿ªÊ¼
+2026-02-11 19:57:46.745 CST [19952] ÈÕÖ¾:  invalid record length at 0/284BE00: expected at least 24, got 0
+2026-02-11 19:57:46.745 CST [19952] ÈÕÖ¾:  redo done at 0/284BDC8 system usage: CPU:ÓÃ»§£º0.00 s£¬ÏµÍ³£º0.00 s£¬ÒÑÓÃÊ±¼ä£º0.00 s
+2026-02-11 19:57:46.753 CST [22684] ÈÕÖ¾:  checkpoint starting: end-of-recovery immediate wait
+2026-02-11 19:57:46.784 CST [22684] ÈÕÖ¾:  checkpoint complete: wrote 2 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.010 s, total=0.036 s; sync files=3, longest=0.004 s, average=0.004 s; distance=0 kB, estimate=0 kB; lsn=0/284BE00, redo lsn=0/284BE00
+2026-02-11 19:57:46.810 CST [5620] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-02-11 20:00:28.874 CST [24488] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2026-02-11 20:01:21.342 CST [5620] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2026-02-11 20:01:21.348 CST [5620] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2026-02-11 20:01:21.352 CST [16436] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.352 CST [17480] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.353 CST [23904] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.353 CST [20216] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.353 CST [5740] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.353 CST [18240] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.353 CST [18324] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.353 CST [17548] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.354 CST [13584] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.354 CST [6368] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.354 CST [18452] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.354 CST [4252] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.354 CST [5176] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.354 CST [9716] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-02-11 20:01:21.371 CST [5620] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 15280) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2026-02-11 20:01:21.380 CST [22684] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2026-02-11 20:01:21.384 CST [22684] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2026-02-11 20:01:21.441 CST [6352] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-02-11 20:01:21.512 CST [12280] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-02-11 20:01:21.555 CST [6252] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-02-11 20:01:22.740 CST [22684] ÈÕÖ¾:  checkpoint complete: wrote 1095 buffers (1.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.087 s, sync=1.177 s, total=1.361 s; sync files=412, longest=0.014 s, average=0.003 s; distance=5409 kB, estimate=5409 kB; lsn=0/2D944B8, redo lsn=0/2D944B8
+2026-02-11 20:01:22.774 CST [5620] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-04-15 20:01:21.344 CST [24424] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-04-15 20:01:21.348 CST [24424] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-04-15 20:01:21.348 CST [24424] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-04-15 20:01:21.419 CST [24336] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-02-11 20:01:22 CST
+2026-04-15 20:01:21.439 CST [24424] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-04-15 20:02:18.869 CST [24424] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2026-04-15 20:02:18.870 CST [23024] ´íÎó:  ÓÉÓÚÓÃ»§ÇëÇó¶øÕıÔÚÈ¡Ïû²éÑ¯
+2026-04-15 20:02:18.872 CST [24424] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2026-04-15 20:02:18.873 CST [31820] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-04-15 20:02:18.873 CST [28768] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-04-15 20:02:18.874 CST [24424] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 23024) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2026-04-15 20:02:18.880 CST [19064] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2026-04-15 20:02:18.881 CST [19064] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2026-04-15 20:02:18.899 CST [19064] ÈÕÖ¾:  checkpoint complete: wrote 8 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.006 s, total=0.019 s; sync files=6, longest=0.002 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/2D94568, redo lsn=0/2D94568
+2026-04-15 20:02:18.908 CST [24424] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-18 22:36:57.885 CST [14428] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-18 22:36:57.889 CST [14428] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-18 22:36:57.889 CST [14428] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-18 22:36:58.038 CST [10888] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-18 22:36:54 CST
+2026-07-18 22:36:58.148 CST [14428] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-18 22:41:57.968 CST [8976] ÈÕÖ¾:  checkpoint starting: time
+2026-07-18 22:41:58.097 CST [8976] ÈÕÖ¾:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.105 s, sync=0.005 s, total=0.132 s; sync files=3, longest=0.003 s, average=0.002 s; distance=0 kB, estimate=0 kB; lsn=0/16B8720, redo lsn=0/16B86E8
+2026-07-19 00:27:27.154 CST [16444] ÖÂÃü´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_notify": No such file or directory
+2026-07-19 00:27:27.156 CST [16444] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 00:27:37.622 CST [33888] ÖÂÃü´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_notify": No such file or directory
+2026-07-19 00:27:37.624 CST [33888] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 00:34:12.995 CST [28036] ÖÂÃü´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_notify": No such file or directory
+2026-07-19 00:34:12.997 CST [28036] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 00:47:46.801 CST [38088] ÖÂÃü´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_notify": No such file or directory
+2026-07-19 00:47:46.803 CST [38088] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 00:54:08.371 CST [19660] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 00:54:08.374 CST [19660] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 00:54:08.375 CST [19660] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 00:54:08.481 CST [1856] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 00:54:05 CST
+2026-07-19 00:54:08.546 CST [19660] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 00:59:08.451 CST [35700] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 00:59:08.577 CST [35700] ÈÕÖ¾:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.105 s, sync=0.003 s, total=0.129 s; sync files=3, longest=0.002 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/16B8888, redo lsn=0/16B8850
+2026-07-19 01:00:54.861 CST [30212] é”™è¯¯:  å…³ç³» "res_partner" ä¸å­˜åœ¨ ç¬¬ 9 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:00:54.861 CST [30212] è¯­å¥:   UPDATE "res_partner"
+	                    SET "lang" = "__tmp"."lang"::VARCHAR, "write_date" = "__tmp"."write_date"::timestamp, "write_uid" = "__tmp"."write_uid"::int4
+	                    FROM (VALUES (1, 'zh_CN', '2026-07-18T17:00:54.857626'::timestamp, 1)) AS "__tmp"("id", "lang", "write_date", "write_uid")
+	                    WHERE "res_partner"."id" = "__tmp"."id"
+	                
+2026-07-19 01:00:58.290 CST [19688] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:00:58.290 CST [19688] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:01:00.374 CST [19688] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:01:00.374 CST [19688] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:01:49.959 CST [19660] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2026-07-19 01:01:49.962 CST [19660] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2026-07-19 01:01:49.962 CST [19688] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:01:49.965 CST [3788] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:01:49.965 CST [3744] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:01:49.969 CST [19660] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 15084) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2026-07-19 01:01:50.008 CST [35700] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2026-07-19 01:01:50.010 CST [35700] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2026-07-19 01:01:50.046 CST [24056] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-07-19 01:01:50.119 CST [43776] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-07-19 01:01:50.856 CST [35700] ÈÕÖ¾:  checkpoint complete: wrote 1158 buffers (7.1%); 0 WAL file(s) added, 0 removed, 1 recycled; write=0.039 s, sync=0.693 s, total=0.849 s; sync files=908, longest=0.003 s, average=0.001 s; distance=12986 kB, estimate=12986 kB; lsn=0/23672D0, redo lsn=0/23672D0
+2026-07-19 01:01:50.876 CST [19660] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 01:01:53.826 CST [37924] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:01:53.831 CST [37924] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:01:53.831 CST [37924] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:01:53.993 CST [28424] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 01:01:50 CST
+2026-07-19 01:01:54.113 CST [37924] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-18 17:02:14.144 GMT [8880] ±ÈÖÂÃü´íÎó»¹¹ı·ÖµÄ´íÎó:  ÎŞ·¨´ò¿ªÎÄ¼ş "global/pg_control": No such file or directory
+2026-07-19 01:02:16.472 CST [37924] ÈÕÖ¾:  ·şÎñÆ÷½ø³Ì (PID 8880) ±»Òì³£ 0xC0000409 ÖÕÖ¹
+2026-07-19 01:02:16.472 CST [37924] ÌáÊ¾:  ¹ØÓÚ¶Ô16½øÖÆÖµµÄÃèÊö£¬ ²Î¼ûCÓïÑÔµÄÒıÓÃÎÄ¼ş "ntstatus.h" 
+2026-07-19 01:02:16.472 CST [37924] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎÆäËüÒÑ¼¤»îµÄ·şÎñÆ÷½ø³Ì
+2026-07-19 01:02:16.480 CST [37924] ÈÕÖ¾:  ËùÓĞµÄ·şÎñÆ÷½ø³Ì±»ÖĞÖ¹; ÖØĞÂ³õÊ¼»¯
+2026-07-19 01:02:16.482 CST [37924] ±ÈÖÂÃü´íÎó»¹¹ı·ÖµÄ´íÎó:  ÎŞ·¨´ò¿ªÎÄ¼ş "global/pg_control": No such file or directory
+2026-07-19 01:03:02.123 CST [42932] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:03:02.126 CST [42932] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:03:02.126 CST [42932] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:03:02.186 CST [41392] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 01:02:59 CST
+2026-07-19 01:03:02.203 CST [42932] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 01:03:44.789 CST [11796] ÖÂÃü´íÎó:  Êı¾İ¿â "demo" ²»´æÔÚ
+2026-07-19 01:03:44.908 CST [39728] ÖÂÃü´íÎó:  Êı¾İ¿â "demo" ²»´æÔÚ
+2026-07-19 01:03:52.613 CST [42932] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2026-07-19 01:03:52.617 CST [42932] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2026-07-19 01:03:52.619 CST [11808] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:03:52.619 CST [35008] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:03:52.651 CST [42932] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 27692) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2026-07-19 01:03:52.652 CST [43864] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2026-07-19 01:03:52.654 CST [43864] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2026-07-19 01:03:52.678 CST [43864] ÈÕÖ¾:  checkpoint complete: wrote 44 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.014 s, total=0.026 s; sync files=11, longest=0.003 s, average=0.002 s; distance=253 kB, estimate=253 kB; lsn=0/15B7BC8, redo lsn=0/15B7BC8
+2026-07-19 01:03:52.688 CST [11520] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-07-19 01:03:52.693 CST [42932] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 01:03:55.063 CST [18480] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:03:55.066 CST [18480] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:03:55.066 CST [18480] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:03:55.126 CST [35048] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 01:03:52 CST
+2026-07-19 01:03:55.139 CST [18480] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 01:04:17.987 CST [29472] ÖÂÃü´íÎó:  Êı¾İ¿â "demo" ²»´æÔÚ
+2026-07-19 01:04:18.092 CST [15872] ÖÂÃü´íÎó:  Êı¾İ¿â "demo" ²»´æÔÚ
+2026-07-19 01:04:38.048 CST [38932] ÖÂÃü´íÎó:  Êı¾İ¿â "demo" ²»´æÔÚ
+2026-07-19 01:04:38.144 CST [11684] ÖÂÃü´íÎó:  Êı¾İ¿â "demo" ²»´æÔÚ
+2026-07-19 01:05:10.087 CST [16720] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:05:10.087 CST [16720] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:05:11.092 CST [16720] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:05:11.092 CST [16720] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:05:12.763 CST [43636] é”™è¯¯:  å…³ç³» "res_partner" ä¸å­˜åœ¨ ç¬¬ 9 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:05:12.763 CST [43636] è¯­å¥:   UPDATE "res_partner"
+	                    SET "lang" = "__tmp"."lang"::VARCHAR, "write_date" = "__tmp"."write_date"::timestamp, "write_uid" = "__tmp"."write_uid"::int4
+	                    FROM (VALUES (1, 'zh_CN', '2026-07-18T17:05:12.760424'::timestamp, 1)) AS "__tmp"("id", "lang", "write_date", "write_uid")
+	                    WHERE "res_partner"."id" = "__tmp"."id"
+	                
+2026-07-19 01:06:10.142 CST [26712] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:06:10.142 CST [26712] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:06:12.160 CST [26712] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:06:12.160 CST [26712] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:07:10.187 CST [26712] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:07:10.187 CST [26712] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:07:13.219 CST [26712] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:07:13.219 CST [26712] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:07:59.572 CST [25192] æ—¥å¿—:  æ— æ³•ä»å®¢æˆ·ç«¯è·å¾—æ•°æ®: An existing connection was forcibly closed by the remote host.
+	
+2026-07-19 01:08:55.132 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:09:01.737 CST [16192] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:09:01.737 CST [16192] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:09:02.714 CST [16192] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:09:02.714 CST [16192] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:09:44.560 CST [37064] ÈÕÖ¾:  ÎŞ·¨´Ó¿Í»§¶Ë»ñµÃÊı¾İ: An existing connection was forcibly closed by the remote host.
+	
+2026-07-19 01:09:57.791 CST [10992] é”™è¯¯:  å…³ç³» "res_partner" ä¸å­˜åœ¨ ç¬¬ 9 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:09:57.791 CST [10992] è¯­å¥:   UPDATE "res_partner"
+	                    SET "lang" = "__tmp"."lang"::VARCHAR, "write_date" = "__tmp"."write_date"::timestamp, "write_uid" = "__tmp"."write_uid"::int4
+	                    FROM (VALUES (1, 'en_US', '2026-07-18T17:09:57.788534'::timestamp, 1)) AS "__tmp"("id", "lang", "write_date", "write_uid")
+	                    WHERE "res_partner"."id" = "__tmp"."id"
+	                
+2026-07-19 01:10:35.151 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÎÄ¼ş "base/16389/2838_vm": No such file or directory
+2026-07-19 01:10:35.151 CST [8028] ÉÏÏÂÎÄ:  Ğ´Èë¹ØÏµbase/16389/2838_vmµÄ¿é0
+2026-07-18 17:10:35.420 GMT [9152] ÖÂÃü´íÎó:  "D:/odoo20-x64/runtime/pgsql/data" ²»ÊÇÒ»¸öÓĞĞ§µÄÊı¾İÄ¿Â¼
+2026-07-18 17:10:35.420 GMT [9152] ÏêÏ¸ĞÅÏ¢:  ÎÄ¼ş "D:/odoo20-x64/runtime/pgsql/data/PG_VERSION" ¶ªÊ§.
+2026-07-19 01:10:36.160 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:36.160 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:37.175 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:37.175 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:38.185 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:38.185 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:39.189 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:39.189 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:40.200 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:40.200 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-18 17:10:40.898 GMT [9212] ÖÂÃü´íÎó:  "D:/odoo20-x64/runtime/pgsql/data" ²»ÊÇÒ»¸öÓĞĞ§µÄÊı¾İÄ¿Â¼
+2026-07-18 17:10:40.898 GMT [9212] ÏêÏ¸ĞÅÏ¢:  ÎÄ¼ş "D:/odoo20-x64/runtime/pgsql/data/PG_VERSION" ¶ªÊ§.
+2026-07-18 17:10:40.918 GMT [38732] ÖÂÃü´íÎó:  "D:/odoo20-x64/runtime/pgsql/data" ²»ÊÇÒ»¸öÓĞĞ§µÄÊı¾İÄ¿Â¼
+2026-07-18 17:10:40.918 GMT [38732] ÏêÏ¸ĞÅÏ¢:  ÎÄ¼ş "D:/odoo20-x64/runtime/pgsql/data/PG_VERSION" ¶ªÊ§.
+2026-07-18 17:10:41.014 GMT [15324] ÖÂÃü´íÎó:  "D:/odoo20-x64/runtime/pgsql/data" ²»ÊÇÒ»¸öÓĞĞ§µÄÊı¾İÄ¿Â¼
+2026-07-18 17:10:41.014 GMT [15324] ÏêÏ¸ĞÅÏ¢:  ÎÄ¼ş "D:/odoo20-x64/runtime/pgsql/data/PG_VERSION" ¶ªÊ§.
+2026-07-19 01:10:41.211 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:41.212 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:42.220 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:42.220 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:43.231 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:43.231 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:44.246 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:44.246 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:45.247 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:45.247 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:46.250 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:46.250 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:47.261 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:47.261 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:48.267 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:48.267 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:49.272 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:49.272 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:50.275 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:50.275 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:51.278 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:51.278 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:52.278 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:52.279 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:53.294 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:53.294 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:54.300 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:54.300 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:55.303 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:55.303 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:56.303 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:56.303 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:57.308 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:57.308 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:58.314 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:58.314 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:10:59.328 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:10:59.328 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:11:00.336 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:11:00.336 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:11:01.340 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:11:01.340 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:11:02.342 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:11:02.342 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:11:03.353 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:11:03.353 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:11:04.368 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:11:04.368 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:11:05.374 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:11:05.374 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:11:06.385 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:11:06.385 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:11:07.388 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:11:07.389 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:11:08.394 CST [8028] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:11:08.394 CST [8028] ´íÎó:  ÎŞ·¨´ò¿ªÄ¿Â¼ "pg_logical/snapshots": No such file or directory
+2026-07-19 01:11:09.311 CST [18480] ÈÕÖ¾:  ÎŞ·¨´ò¿ªÎÄ¼ş "postmaster.pid": No such file or directory
+2026-07-19 01:11:09.311 CST [18480] ÈÕÖ¾:  ÓÉÓÚÊı¾İÄ¿Â¼ËøÎÄ¼ş·Ç·¨¶øÖ´ĞĞÁ¢¼´¹Ø±Õ
+2026-07-19 01:11:09.311 CST [18480] ÈÕÖ¾:  ½ÓÊÕµ½Á¢¼´ (immediate) Í£Ö¹ÇëÇó
+2026-07-19 01:11:09.312 CST [18480] ÈÕÖ¾:  ÎŞ·¨´ò¿ªÎÄ¼ş "postmaster.pid": No such file or directory
+2026-07-18 17:11:09.350 GMT [28100] ÖÂÃü´íÎó:  "D:/odoo20-x64/runtime/pgsql/data" ²»ÊÇÒ»¸öÓĞĞ§µÄÊı¾İÄ¿Â¼
+2026-07-18 17:11:09.350 GMT [28100] ÏêÏ¸ĞÅÏ¢:  ÎÄ¼ş "D:/odoo20-x64/runtime/pgsql/data/PG_VERSION" ¶ªÊ§.
+2026-07-19 01:11:09.360 CST [18480] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 01:12:56.023 CST [25772] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:12:56.030 CST [25772] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:12:56.030 CST [25772] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:12:56.097 CST [42672] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 01:12:53 CST
+2026-07-19 01:12:56.120 CST [25772] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 01:13:23.341 CST [41176] é”™è¯¯:  å…³ç³» "res_partner" ä¸å­˜åœ¨ ç¬¬ 9 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:13:23.341 CST [41176] è¯­å¥:   UPDATE "res_partner"
+	                    SET "lang" = "__tmp"."lang"::VARCHAR, "write_date" = "__tmp"."write_date"::timestamp, "write_uid" = "__tmp"."write_uid"::int4
+	                    FROM (VALUES (1, 'zh_CN', '2026-07-18T17:13:23.337746'::timestamp, 1)) AS "__tmp"("id", "lang", "write_date", "write_uid")
+	                    WHERE "res_partner"."id" = "__tmp"."id"
+	                
+2026-07-19 01:13:57.281 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:13:57.281 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:13:58.252 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:13:58.252 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:14:57.342 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:14:57.342 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:14:59.318 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:14:59.318 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:15:57.419 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:15:57.419 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:16:00.371 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:16:00.371 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:16:15.772 CST [31828] ÖÂÃü´íÎó:  ½ÇÉ« "guohua" ²»´æÔÚ
+2026-07-19 01:16:21.421 CST [15212] ÖÂÃü´íÎó:  ½ÇÉ« "guohua" ²»´æÔÚ
+2026-07-19 01:16:26.980 CST [33648] ÖÂÃü´íÎó:  Êı¾İ¿â "postgres;" ²»´æÔÚ
+2026-07-19 01:16:30.969 CST [26084] ÖÂÃü´íÎó:  ½ÇÉ« "guoh" ²»´æÔÚ
+2026-07-19 01:16:44.829 CST [15216] ÖÂÃü´íÎó:  Êı¾İ¿â "postgres;" ²»´æÔÚ
+2026-07-19 01:16:49.648 CST [19936] ÖÂÃü´íÎó:  Êı¾İ¿â "postgres;" ²»´æÔÚ
+2026-07-19 01:16:55.348 CST [26756] ÖÂÃü´íÎó:  Êı¾İ¿â "guohu" ²»´æÔÚ
+2026-07-19 01:16:57.482 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:16:57.482 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:17:01.439 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:17:01.439 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:17:56.096 CST [7176] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:17:57.551 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:17:57.551 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:18:02.500 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:18:02.500 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:18:57.623 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:18:57.623 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:19:03.557 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:19:03.557 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:19:57.696 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:19:57.696 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:20:04.620 CST [32668] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:20:04.620 CST [32668] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:20:09.020 CST [7176] ÈÕÖ¾:  checkpoint complete: wrote 1203 buffers (7.3%); 0 WAL file(s) added, 0 removed, 1 recycled; write=132.080 s, sync=0.724 s, total=132.926 s; sync files=919, longest=0.019 s, average=0.001 s; distance=13262 kB, estimate=13262 kB; lsn=0/226E748, redo lsn=0/226BE08
+2026-07-19 01:20:25.241 CST [4676] é”™è¯¯:  å…³ç³» "res_partner" ä¸å­˜åœ¨ ç¬¬ 9 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:20:25.241 CST [4676] è¯­å¥:   UPDATE "res_partner"
+	                    SET "lang" = "__tmp"."lang"::VARCHAR, "write_date" = "__tmp"."write_date"::timestamp, "write_uid" = "__tmp"."write_uid"::int4
+	                    FROM (VALUES (1, 'en_US', '2026-07-18T17:20:25.238103'::timestamp, 1)) AS "__tmp"("id", "lang", "write_date", "write_uid")
+	                    WHERE "res_partner"."id" = "__tmp"."id"
+	                
+2026-07-18 17:20:51.498 GMT [1392] ÖÂÃü´íÎó:  "D:/odoo20-x64/runtime/pgsql/data" ²»ÊÇÒ»¸öÓĞĞ§µÄÊı¾İÄ¿Â¼
+2026-07-18 17:20:51.498 GMT [1392] ÏêÏ¸ĞÅÏ¢:  ÎÄ¼ş "D:/odoo20-x64/runtime/pgsql/data/PG_VERSION" ¶ªÊ§.
+2026-07-18 17:20:51.517 GMT [11956] ÖÂÃü´íÎó:  "D:/odoo20-x64/runtime/pgsql/data" ²»ÊÇÒ»¸öÓĞĞ§µÄÊı¾İÄ¿Â¼
+2026-07-18 17:20:51.517 GMT [11956] ÏêÏ¸ĞÅÏ¢:  ÎÄ¼ş "D:/odoo20-x64/runtime/pgsql/data/PG_VERSION" ¶ªÊ§.
+2026-07-18 17:20:51.607 GMT [22256] ÖÂÃü´íÎó:  "D:/odoo20-x64/runtime/pgsql/data" ²»ÊÇÒ»¸öÓĞĞ§µÄÊı¾İÄ¿Â¼
+2026-07-18 17:20:51.607 GMT [22256] ÏêÏ¸ĞÅÏ¢:  ÎÄ¼ş "D:/odoo20-x64/runtime/pgsql/data/PG_VERSION" ¶ªÊ§.
+2026-07-18 17:20:56.281 GMT [2464] ÖÂÃü´íÎó:  "D:/odoo20-x64/runtime/pgsql/data" ²»ÊÇÒ»¸öÓĞĞ§µÄÊı¾İÄ¿Â¼
+2026-07-18 17:20:56.281 GMT [2464] ÏêÏ¸ĞÅÏ¢:  ÎÄ¼ş "D:/odoo20-x64/runtime/pgsql/data/PG_VERSION" ¶ªÊ§.
+2026-07-19 01:20:57.702 CST [25772] ÈÕÖ¾:  ÎŞ·¨´ò¿ªÎÄ¼ş "postmaster.pid": No such file or directory
+2026-07-19 01:20:57.702 CST [25772] ÈÕÖ¾:  ÓÉÓÚÊı¾İÄ¿Â¼ËøÎÄ¼ş·Ç·¨¶øÖ´ĞĞÁ¢¼´¹Ø±Õ
+2026-07-19 01:20:57.703 CST [25772] ÈÕÖ¾:  ½ÓÊÕµ½Á¢¼´ (immediate) Í£Ö¹ÇëÇó
+2026-07-19 01:20:57.703 CST [25772] ÈÕÖ¾:  ÎŞ·¨´ò¿ªÎÄ¼ş "postmaster.pid": No such file or directory
+2026-07-18 17:20:57.774 GMT [14864] ÖÂÃü´íÎó:  "D:/odoo20-x64/runtime/pgsql/data" ²»ÊÇÒ»¸öÓĞĞ§µÄÊı¾İÄ¿Â¼
+2026-07-18 17:20:57.774 GMT [14864] ÏêÏ¸ĞÅÏ¢:  ÎÄ¼ş "D:/odoo20-x64/runtime/pgsql/data/PG_VERSION" ¶ªÊ§.
+2026-07-19 01:20:57.782 CST [25772] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 01:22:21.749 CST [40188] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:22:21.754 CST [40188] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:22:21.754 CST [40188] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:22:21.819 CST [8720] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 01:22:19 CST
+2026-07-19 01:22:21.841 CST [40188] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 01:23:03.597 CST [43964] é”™è¯¯:  å…³ç³» "res_partner" ä¸å­˜åœ¨ ç¬¬ 9 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:23:03.597 CST [43964] è¯­å¥:   UPDATE "res_partner"
+	                    SET "lang" = "__tmp"."lang"::VARCHAR, "write_date" = "__tmp"."write_date"::timestamp, "write_uid" = "__tmp"."write_uid"::int4
+	                    FROM (VALUES (1, 'zh_CN', '2026-07-18T17:23:03.594228'::timestamp, 1)) AS "__tmp"("id", "lang", "write_date", "write_uid")
+	                    WHERE "res_partner"."id" = "__tmp"."id"
+	                
+2026-07-19 01:23:23.182 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:23:23.182 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:23:24.159 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:23:24.159 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:24:23.260 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:24:23.260 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:24:25.216 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:24:25.216 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:25:23.331 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:25:23.331 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:25:26.269 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:25:26.269 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:26:23.407 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:26:23.407 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:26:27.340 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:26:27.340 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:27:21.824 CST [7008] ÈÕÖ¾:  checkpoint starting: time
+2026-07-19 01:27:23.477 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:27:23.477 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:27:28.396 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:27:28.396 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:28:23.558 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:28:23.558 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:28:29.468 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:28:29.468 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:29:23.663 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:29:23.663 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:29:30.559 CST [14660] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:29:30.559 CST [14660] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:29:34.687 CST [40188] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2026-07-19 01:29:34.689 CST [3924] ´íÎó:  ÓÉÓÚÓÃ»§ÇëÇó¶øÕıÔÚÈ¡Ïû²éÑ¯
+2026-07-19 01:29:34.693 CST [40188] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2026-07-19 01:29:34.693 CST [14660] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:29:34.693 CST [40188] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 3924) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2026-07-19 01:29:34.695 CST [41644] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:29:34.695 CST [27036] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:29:34.742 CST [16192] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-07-19 01:29:35.469 CST [7008] ÈÕÖ¾:  checkpoint complete: wrote 1210 buffers (7.4%); 0 WAL file(s) added, 0 removed, 1 recycled; write=132.694 s, sync=0.816 s, total=133.646 s; sync files=924, longest=0.004 s, average=0.001 s; distance=13299 kB, estimate=13299 kB; lsn=0/2275208, redo lsn=0/22751D0
+2026-07-19 01:29:35.474 CST [7008] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2026-07-19 01:29:35.475 CST [7008] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2026-07-19 01:29:35.485 CST [7008] ÈÕÖ¾:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.001 s, total=0.012 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=11969 kB; lsn=0/2275280, redo lsn=0/2275280
+2026-07-19 01:29:35.494 CST [40188] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 01:29:45.386 CST [24056] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:29:45.391 CST [24056] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:29:45.391 CST [24056] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:29:45.474 CST [23888] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 01:29:35 CST
+2026-07-19 01:29:45.498 CST [24056] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 01:30:28.504 CST [24056] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2026-07-19 01:30:28.508 CST [24264] ´íÎó:  ÓÉÓÚÓÃ»§ÇëÇó¶øÕıÔÚÈ¡Ïû²éÑ¯
+2026-07-19 01:30:28.517 CST [24056] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2026-07-19 01:30:28.518 CST [24056] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 24264) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2026-07-19 01:30:28.527 CST [32436] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2026-07-19 01:30:28.528 CST [32436] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2026-07-19 01:30:28.544 CST [32436] ÈÕÖ¾:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.004 s, total=0.017 s; sync files=3, longest=0.002 s, average=0.002 s; distance=7 kB, estimate=7 kB; lsn=0/2277228, redo lsn=0/2277228
+2026-07-19 01:30:28.559 CST [23432] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-07-19 01:30:28.565 CST [24056] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 01:30:51.069 CST [4724] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:30:51.073 CST [4724] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:30:51.073 CST [4724] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:30:51.140 CST [10696] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 01:30:48 CST
+2026-07-19 01:30:51.162 CST [4724] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 01:31:49.513 CST [2556] é”™è¯¯:  å…³ç³» "res_partner" ä¸å­˜åœ¨ ç¬¬ 9 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:31:49.513 CST [2556] è¯­å¥:   UPDATE "res_partner"
+	                    SET "lang" = "__tmp"."lang"::VARCHAR, "write_date" = "__tmp"."write_date"::timestamp, "write_uid" = "__tmp"."write_uid"::int4
+	                    FROM (VALUES (1, 'zh_CN', '2026-07-18T17:31:49.510094'::timestamp, 1)) AS "__tmp"("id", "lang", "write_date", "write_uid")
+	                    WHERE "res_partner"."id" = "__tmp"."id"
+	                
+2026-07-19 01:31:52.314 CST [26240] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:31:52.314 CST [26240] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:31:53.303 CST [26240] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:31:53.303 CST [26240] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:32:52.401 CST [26240] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:32:52.401 CST [26240] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:32:53.966 CST [4724] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2026-07-19 01:32:53.968 CST [6536] ´íÎó:  ÓÉÓÚÓÃ»§ÇëÇó¶øÕıÔÚÈ¡Ïû²éÑ¯
+2026-07-19 01:32:53.969 CST [4724] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2026-07-19 01:32:53.970 CST [26240] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:32:53.971 CST [29168] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:32:53.972 CST [30624] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:32:53.972 CST [4724] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 6536) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2026-07-19 01:32:53.981 CST [10096] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2026-07-19 01:32:53.982 CST [10096] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2026-07-19 01:32:54.018 CST [24028] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-07-19 01:32:54.823 CST [10096] ÈÕÖ¾:  checkpoint complete: wrote 1210 buffers (7.4%); 0 WAL file(s) added, 0 removed, 1 recycled; write=0.042 s, sync=0.684 s, total=0.842 s; sync files=924, longest=0.003 s, average=0.001 s; distance=13299 kB, estimate=13299 kB; lsn=0/2275158, redo lsn=0/2275158
+2026-07-19 01:32:54.836 CST [4724] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 01:33:13.528 CST [14556] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:33:13.531 CST [14556] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:33:13.531 CST [14556] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:33:13.595 CST [38064] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 01:33:11 CST
+2026-07-19 01:33:13.612 CST [14556] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 01:33:25.444 CST [17176] é”™è¯¯:  æ•°æ®åº“ "demo" ä¸å­˜åœ¨
+2026-07-19 01:33:25.444 CST [17176] è¯­å¥:  DROP DATABASE "demo"
+2026-07-19 01:33:46.825 CST [33468] é”™è¯¯:  å…³ç³» "res_partner" ä¸å­˜åœ¨ ç¬¬ 9 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:33:46.825 CST [33468] è¯­å¥:   UPDATE "res_partner"
+	                    SET "lang" = "__tmp"."lang"::VARCHAR, "write_date" = "__tmp"."write_date"::timestamp, "write_uid" = "__tmp"."write_uid"::int4
+	                    FROM (VALUES (1, 'en_US', '2026-07-18T17:33:46.822409'::timestamp, 1)) AS "__tmp"("id", "lang", "write_date", "write_uid")
+	                    WHERE "res_partner"."id" = "__tmp"."id"
+	                
+2026-07-19 01:34:17.114 CST [5592] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:34:17.114 CST [5592] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:34:18.097 CST [5592] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:34:18.097 CST [5592] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:35:10.669 CST [14556] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2026-07-19 01:35:10.681 CST [14556] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2026-07-19 01:35:10.681 CST [5592] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:35:10.683 CST [31688] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:35:10.683 CST [23104] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:35:10.687 CST [14556] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 36220) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2026-07-19 01:35:10.722 CST [20120] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2026-07-19 01:35:10.724 CST [20120] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2026-07-19 01:35:10.760 CST [33712] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-07-19 01:35:10.800 CST [18196] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-07-19 01:35:11.566 CST [20120] ÈÕÖ¾:  checkpoint complete: wrote 1204 buffers (7.3%); 0 WAL file(s) added, 0 removed, 1 recycled; write=0.043 s, sync=0.673 s, total=0.845 s; sync files=919, longest=0.003 s, average=0.001 s; distance=13271 kB, estimate=13271 kB; lsn=0/226E110, redo lsn=0/226E110
+2026-07-19 01:35:11.579 CST [14556] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 01:35:20.757 CST [14076] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:35:20.760 CST [14076] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:35:20.760 CST [14076] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:35:20.823 CST [3556] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 01:35:11 CST
+2026-07-19 01:35:20.842 CST [14076] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 01:35:47.450 CST [14076] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2026-07-19 01:35:47.463 CST [14076] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2026-07-19 01:35:47.467 CST [14076] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 29636) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2026-07-19 01:35:47.469 CST [39944] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2026-07-19 01:35:47.470 CST [39944] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2026-07-19 01:35:47.483 CST [39944] ÈÕÖ¾:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.003 s, total=0.014 s; sync files=2, longest=0.002 s, average=0.002 s; distance=0 kB, estimate=0 kB; lsn=0/226E1C0, redo lsn=0/226E1C0
+2026-07-19 01:35:47.489 CST [14076] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 01:35:51.304 CST [43016] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:35:51.308 CST [43016] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:35:51.308 CST [43016] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:35:51.368 CST [22432] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 01:35:47 CST
+2026-07-19 01:35:51.384 CST [43016] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 01:36:49.779 CST [43016] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2026-07-19 01:36:49.780 CST [6488] ´íÎó:  ÓÉÓÚÓÃ»§ÇëÇó¶øÕıÔÚÈ¡Ïû²éÑ¯
+2026-07-19 01:36:49.782 CST [43016] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2026-07-19 01:36:49.784 CST [27280] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:36:49.784 CST [43692] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:36:49.785 CST [19736] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:36:49.819 CST [43016] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 6488) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2026-07-19 01:36:49.821 CST [24536] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2026-07-19 01:36:49.823 CST [24536] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2026-07-19 01:36:49.839 CST [24536] ÈÕÖ¾:  checkpoint complete: wrote 5 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.006 s, total=0.018 s; sync files=4, longest=0.003 s, average=0.002 s; distance=7 kB, estimate=7 kB; lsn=0/22701A0, redo lsn=0/22701A0
+2026-07-19 01:36:49.857 CST [24876] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-07-19 01:36:49.863 CST [43016] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 01:36:54.767 CST [35280] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:36:54.771 CST [35280] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:36:54.771 CST [35280] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:36:54.835 CST [37876] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 01:36:49 CST
+2026-07-19 01:36:54.853 CST [35280] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 01:37:04.005 CST [35280] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 30120) ±»Òì³£ 0xC000013A ÖÕÖ¹
+2026-07-19 01:37:04.005 CST [35280] ÌáÊ¾:  ¹ØÓÚ¶Ô16½øÖÆÖµµÄÃèÊö£¬ ²Î¼ûCÓïÑÔµÄÒıÓÃÎÄ¼ş "ntstatus.h" 
+2026-07-19 01:37:04.005 CST [35280] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎÆäËüÒÑ¼¤»îµÄ·şÎñÆ÷½ø³Ì
+2026-07-19 01:37:04.011 CST [35280] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+^C2026-07-19 01:37:16.733 CST [19936] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:37:16.737 CST [19936] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:37:16.737 CST [19936] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:37:16.885 CST [21968] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÖĞ¶Ï£»ÉÏÒ»´ÎµÄÆô¶¯Ê±¼äÊÇÔÚ2026-07-19 01:36:54 CST
+2026-07-19 01:37:17.552 CST [21968] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³Ã»ÓĞÕıÈ·µÄ¹Ø±Õ; ´¦ÓÚ×Ô¶¯»Ö¸´×´Ì¬ÖĞ
+2026-07-19 01:37:17.556 CST [21968] ÈÕÖ¾:  invalid record length at 0/2270218: expected at least 24, got 0
+2026-07-19 01:37:17.556 CST [21968] ÈÕÖ¾:  ²»ĞèÒª redo
+2026-07-19 01:37:17.560 CST [29932] ÈÕÖ¾:  checkpoint starting: end-of-recovery immediate wait
+2026-07-19 01:37:17.572 CST [29932] ÈÕÖ¾:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.003 s, total=0.015 s; sync files=2, longest=0.002 s, average=0.002 s; distance=0 kB, estimate=0 kB; lsn=0/2270218, redo lsn=0/2270218
+2026-07-19 01:37:17.679 CST [19936] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 01:37:44.374 CST [19936] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2026-07-19 01:37:44.386 CST [19936] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2026-07-19 01:37:44.389 CST [2252] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:37:44.389 CST [22232] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 01:37:44.420 CST [19936] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 9212) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2026-07-19 01:37:44.420 CST [29932] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2026-07-19 01:37:44.422 CST [29932] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2026-07-19 01:37:44.432 CST [29932] ÈÕÖ¾:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.001 s, total=0.012 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=0 kB; lsn=0/22702C8, redo lsn=0/22702C8
+2026-07-19 01:37:44.458 CST [39656] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-07-19 01:37:44.465 CST [19936] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ
+2026-07-19 01:46:37.253 CST [16736] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 01:46:37.257 CST [16736] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 01:46:37.257 CST [16736] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 01:46:37.328 CST [28400] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 01:46:34 CST
+2026-07-19 01:46:37.365 CST [16736] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 01:46:58.859 CST [39668] é”™è¯¯:  æ•°æ®åº“ "demo" ä¸å­˜åœ¨
+2026-07-19 01:46:58.859 CST [39668] è¯­å¥:  DROP DATABASE "demo"
+2026-07-19 01:47:21.335 CST [6468] é”™è¯¯:  å…³ç³» "res_partner" ä¸å­˜åœ¨ ç¬¬ 9 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:47:21.335 CST [6468] è¯­å¥:   UPDATE "res_partner"
+	                    SET "lang" = "__tmp"."lang"::VARCHAR, "write_date" = "__tmp"."write_date"::timestamp, "write_uid" = "__tmp"."write_uid"::int4
+	                    FROM (VALUES (1, 'zh_CN', '2026-07-18T17:47:21.332096'::timestamp, 1)) AS "__tmp"("id", "lang", "write_date", "write_uid")
+	                    WHERE "res_partner"."id" = "__tmp"."id"
+	                
+2026-07-19 01:47:52.932 CST [12552] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:47:52.932 CST [12552] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:47:53.927 CST [12552] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:47:53.927 CST [12552] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:48:53.002 CST [12552] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:48:53.002 CST [12552] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:48:54.985 CST [12552] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:48:54.985 CST [12552] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:49:53.073 CST [12552] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:49:53.073 CST [12552] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:49:56.054 CST [12552] é”™è¯¯:  å…³ç³» "ir_module_module" ä¸å­˜åœ¨ ç¬¬ 53 ä¸ªå­—ç¬¦å¤„
+2026-07-19 01:49:56.054 CST [12552] è¯­å¥:  
+	            SELECT latest_version
+	            FROM ir_module_module
+	             WHERE name='base'
+	        
+2026-07-19 01:50:02.694 CST [12552] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2026-07-19 01:50:02.696 CST [464] è‡´å‘½é”™è¯¯:  ç”±äºæ„å¤–çš„ postmaster é€€å‡ºè€Œç»ˆæ­¢è¿æ¥
+2026-07-19 02:44:39.166 CST [7032] ÈÕÖ¾:  ÕıÔÚÆô¶¯ PostgreSQL 16.4, compiled by Visual C++ build 1940, 64-bit
+2026-07-19 02:44:39.169 CST [7032] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv6µØÖ·"::1"£¬¶Ë¿Ú 5432
+2026-07-19 02:44:39.170 CST [7032] ÈÕÖ¾:  ÕıÔÚ¼àÌıIPv4µØÖ·"127.0.0.1"£¬¶Ë¿Ú 5432
+2026-07-19 02:44:39.232 CST [42336] ÈÕÖ¾:  Êı¾İ¿âÉÏ´Î¹Ø±ÕÊ±¼äÎª 2026-07-19 02:44:36 CST
+2026-07-19 02:44:39.248 CST [7032] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³×¼±¸½ÓÊÜÁ¬½Ó
+2026-07-19 02:49:25.126 CST [7032] ÈÕÖ¾:  ½ÓÊÕµ½¿ìËÙ (fast) Í£Ö¹ÇëÇó
+2026-07-19 02:49:25.138 CST [7032] ÈÕÖ¾:  ÖĞ¶ÏÈÎºÎ¼¤»îÊÂÎñ
+2026-07-19 02:49:25.139 CST [37204] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 02:49:25.145 CST [31788] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 02:49:25.145 CST [32444] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 02:49:25.146 CST [15668] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 02:49:25.146 CST [17484] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 02:49:25.147 CST [12780] è‡´å‘½é”™è¯¯:  ç”±äºç®¡ç†å‘˜å‘½ä»¤ä¸­æ–­è”æ¥
+2026-07-19 02:49:25.150 CST [7032] ÈÕÖ¾:  ºóÌ¨¹¤×÷½ø³Ì "logical replication launcher" (PID 16000) ÒÑÍË³ö, ÍË³ö´úÂë 1
+2026-07-19 02:49:25.188 CST [32500] ÈÕÖ¾:  ÕıÔÚ¹Ø±Õ
+2026-07-19 02:49:25.189 CST [32500] ÈÕÖ¾:  checkpoint starting: shutdown immediate
+2026-07-19 02:49:25.223 CST [6080] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-07-19 02:49:25.264 CST [41164] ÖÂÃü´íÎó:  Êı¾İ¿âÏµÍ³Í£Ö¹ÖĞ
+2026-07-19 02:49:26.353 CST [32500] ÈÕÖ¾:  checkpoint complete: wrote 3213 buffers (19.6%); 0 WAL file(s) added, 0 removed, 2 recycled; write=0.091 s, sync=1.059 s, total=1.166 s; sync files=1064, longest=0.007 s, average=0.001 s; distance=28467 kB, estimate=28467 kB; lsn=0/3184850, redo lsn=0/3184850
+2026-07-19 02:49:26.372 CST [7032] ÈÕÖ¾:  Êı¾İ¿âÏµÍ³ÒÑ¹Ø±Õ

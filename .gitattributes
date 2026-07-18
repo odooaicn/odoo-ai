@@ -1,0 +1,2 @@
+D:/odoo20-x64/runtime filter=lfs diff=lfs merge=lfs -text
+runtime filter=lfs diff=lfs merge=lfs -text
