@@ -2,10 +2,11 @@
  [odooai.cn 提供](https://www.odooai.cn "odoo智能版，社区版中文开箱即用整强版")
 ---------------------------------------
 
-## 概述
+## 概述-全面增加Ai支持
 
 ### odoo智能版，包含odoo20(预览19.5),odoo19,odoo18,odoo17,odoo16,odoo15,odoo14,odoo13,odoo12,odoo11,odoo10的各版本分支。
 - 全功能：Ai驱动的odoo包含企业基本的CRM营销获客，生产、质检、PLM、MES、条码、批次、销售、电商、采购、仓管、维修、odoo财务、项目、网课、人劳、报销等全面功能。
+- Ai增强：Postgres数据库增加了内置Ai向量Rag基础支持，Odoo底层改写，全面Ai化
 - 全版本：支持Odoo官方社区版CE，Odoo官方企业版EE，Odoo云端Saas版odoo.sh，Odoo私有部署自定义版。
 - 高性能：64位版本性能会比32位高很多，包括高效指令及大内存更快巡址。对高资源消耗的odoo，使用64位是十分有必要的。
 - 开发增强：本版本在使用64位的基础上，对postgresql进行了优化，并使用nginx进行反向代理，实现了longpolling，可以使用odoo的桌面消息通知，也不会经常报错了。
