@@ -1,10 +1,11 @@
-# odoo智能版，全球1700万+用户使用的全开源ERP
+# odoo智能版，全球2800万+用户使用的全开源ERP
  [odooai.cn 提供](https://www.odooai.cn "odoo智能版，社区版中文开箱即用整强版")
 ---------------------------------------
 
 ## 概述-全面增加Ai支持
 
-### odoo智能版，包含odoo20(预览19.5),odoo19,odoo18,odoo17,odoo16,odoo15,odoo14,odoo13,odoo12,odoo11,odoo10的各版本分支。
+### odoo智能版，包含odoo20,odoo19,odoo18,odoo17,odoo16,odoo15,odoo14,odoo13,odoo12,odoo11,odoo10的各版本分支，。
+- 开箱用：执行 r.bat 即可启动，包含配置好的Ai向量库，包含必要的Ai开发Lib，包含全功能所需环境。
 - 全功能：Ai驱动的odoo包含企业基本的CRM营销获客，生产、质检、PLM、MES、条码、批次、销售、电商、采购、仓管、维修、odoo财务、项目、网课、人劳、报销等全面功能。
 - Ai增强：Postgres数据库增加了内置Ai向量Rag基础支持，Odoo底层改写，全面Ai化
 - 全版本：支持Odoo官方社区版CE，Odoo官方企业版EE，Odoo云端Saas版odoo.sh，Odoo私有部署自定义版。
@@ -13,10 +14,12 @@
 在windows上搭建了一个完整的高性能 Odoo 环境。
 - 持续更新：因速度原因，不再支持一键更新至最新版，请手工高速下载后解压覆盖 /source 目录文件。
 - 全面中文：此Repo中使用官方中文包，更精准可用的欧度智能中文版，将带来更好的用户体验和正确的使用方法，欢迎咨询 [odooai.cn 欧度智能官方中文站](https://www.odooai.cn)
+
 #### Odoo官方源码直接一键下载
-注意，因为repo限制，本身不再提供odoo原生源码，请自行下载后置于 source 目录下。
-https://nightly.odoo.com/master/nightly/src/odoo_19.5a1.latest.zip
-https://nightly.odoocdn.com/master/nightly/src/odoo_19.5a1.latest.zip
+注意，因为repo限制，本身不再提供odoo原生源码，请自行下载，解压后置于 source 目录下。
+- https://nightly.odoo.com/master/nightly/src/odoo_20.1a1.latest.zip
+- https://nightly.odoocdn.com/master/nightly/src/odoo_20.1a1.latest.zip
+
 #### Odoo其它全版本含移动端下载
 欧度智能当前运营使用 odoo20官方社区版，增加了核心中文化及Ai模块，其它版本下载请访问
 -  [odooai.cn 欧度智能官方中文站的odoo官方全版本源码下载](https://www.odooapp.cn/odoo-download) 
@@ -40,14 +43,14 @@ https://nightly.odoocdn.com/master/nightly/src/odoo_19.5a1.latest.zip
 2. postgresql 16.4, 64位
 3. Nginx 1.15.5, 64位
 4. Node.js v24.18.0, Ai主流，注意当前已将 nodejs目录直接置于runtime目录下
-5. Odoo 20社区版，20260718版
+5. Odoo 20社区版，20260923版
 6. 增加 sphinx 及 tx_client 库，用于文档及翻译
 7. 本地执行 gi.bat，会将原始odoo的最新版clone到本地 .\source_git，执行 gu.bat 更新
-8. 对断点调试的处理， 如果更新了新版odoo，将 .\fixed 目录内容覆盖 .\source 内容
-wget https://www.odooai.cn/download/odoo_install_18.sh -N && bash odoo_install_18.sh 2>&1 | tee odoo.log
+
+wget https://www.odooai.cn/download/odoo_install_20.sh -N && bash odoo_install_20.sh 2>&1 | tee odoo.log
 
 ## 全新功能，更快速度
-Odoo 19 发版通知及各种新特性及功能介绍 - 广州欧度智能 | odoo专业实施开发
+Odoo 20 发版通知及各种新特性及功能介绍 - 广州欧度智能 | odoo专业实施开发
 [https://www.odooai.cn/website/search?search=odoo19&order=published_date](https://www.odooai.cn/website/search?search=odoo18 odoo18)
 
 ## 技术说明
@@ -114,29 +117,30 @@ Odoo中文市场，海量模块主题
 广州欧度智能是长期专注企业ERP的技术团队，我们使用odoo服务着全球近千家客户。主要成员来自SAP、微信、阿里口碑等公司，专注于odoo开源ERP和移动电商平台的开发实施，九年odoo经验积累，在制造业与快消零售行业有多项成功经验。面向广州深圳香港佛山东莞顺德大湾区用户。
 
 ### 成功案例
-全球已经有众多知名企业或机构选择使用odoo，如Shell中国壳牌，白云机场，万达，吉利汽车、TOYOTA、FedEx、复星、中兴、Lenovo、UPS、ZTE中兴、新希望集团等。
+全球已经有众多知名企业或机构选择使用odoo，我们广州欧度智能的直接客户与成功案例就包括：
+Shell中国壳牌，白云机场，中国烟草，工商银行，万达集团，青岛啤酒、ETS Group(中德跨国集团)、UR快尚集团、广东开发区投资集团等。
 
 ### odoo安装-Windows
-在windows下安装比较简单，直接在github 或者 gitee 上下载 odoo 18 x64绿色版即可使用。在此下载。
+在windows下安装比较简单，直接在github 或者 gitee 上下载 odoo 20 x64绿色版即可使用。在此下载。
 其它版本可以在此下载。
 64位版本性能会比32位高很多，包括高效指令及大内存更快巡址。对高资源消耗的odoo，使用64位是十分有必要的。
 本版本在使用64位的基础上，对postgresql进行了优化，并使用nginx进行反向代理，实现了longpolling，可以使用odoo的桌面消息通知，也不会经常报错了。在windows上搭建了一个完整的高性能 Odoo 环境。
 
 ### odoo安装-Ubuntu或Linux
-在ubuntu上可以使用我们的一键安装脚本，直接一键安装最新odoo18~11社区版企业版+ postgresql12/11/10 + nginx
+在ubuntu上可以使用我们的一键安装脚本，直接一键安装最新odoo20~11社区版企业版+ postgresql12/11/10 + nginx
 这是在ubuntu上的自动安装脚本，阿里云/腾讯云测试通过。
 
 持续更新，操作如下：
-以root用户登录你的ubuntu主机，执行以下指令，全自动安装脚本，适用于odoo18版本(建议)
-wget https://www.odooai.cn/download/odoo_install_18.sh && bash odoo_install_18.sh 2>&1 | tee odoo.log
+以root用户登录你的ubuntu主机，执行以下指令，全自动安装脚本，适用于odoo20版本(建议)
+wget https://www.odooai.cn/download/odoo_install_20.sh && bash odoo_install_20.sh 2>&1 | tee odoo.log
 
-其它版本如 17~13，请执行以下指令
+其它版本如 19~13，请执行以下指令
 wget https://www.odooai.cn/download/odoo_install.sh && bash odoo_install.sh 2>&1 | tee odoo.log
 
-安装完成后，即可看到所有odoo18的应用
+安装完成后，即可看到所有odoo19的应用
 
 安装如果遇到困难，可以查看 odoo 官方安装文档。
-https://www.odooai.cn/documentation/18.0/zh_CN/administration/install/install.html
+https://www.odooai.cn/documentation/20.0/zh_CN/administration/install/install.html
 
 
 
@@ -145,7 +149,7 @@ https://www.odooai.cn/documentation/18.0/zh_CN/administration/install/install.ht
 
 如果你想进行更多配置，主要是改 odoo.conf 文件，具体可以参考官方配置文档
 
-https://www.odooai.cn/documentation/18.0/zh_CN/administration/install/deploy.html
+https://www.odooai.cn/documentation/20.0/zh_CN/administration/install/deploy.html
 
 ### odoo集群高可用部署
 Odoo是一个全功能ERP平台，也是一个在线服务门户。随着odoo越来越流行，已经有了大量的海量用户高可用部署。
@@ -214,7 +218,7 @@ odoo最核心的是其不仅有开发规范，还有业务规范，优点是开�
 应用架构	各开发的模块通常是紧耦合方式，一部分的开发可能引发大量相关模块的修改	采用标准化插件式的架构，各模块开发不会对核心系统带来影响
 具体的开发规范可以查看官方开发手册，内容很全面
 
-https://www.odooai.cn/documentation/18.0/zh_CN/developer.html
+https://www.odooai.cn/documentation/20.0/zh_CN/developer.html
 
 ### odoo对比其它ERP
 
@@ -251,10 +255,10 @@ ERP即业务，有不断发展变化的业务，就需要可不断扩展的开�
 由于其开源特点、模块化设计、易集成性以及强大社区支持等优势，Odoo在全球范围内受到众多中小型至大型企业青睐。因此，Odoo无疑是一个值得各类企业尤其是成长形企业使用的一站式企业管理套件。
 
 ## 版本信息
-1. python 3.10.11, 64位
+1. python 3.13+, 64位
 2. postgresql 16.4 ,64位
 3. Nginx 1.15.5， 64位
-4. Odoo 18社区版，20241220版
+4. Odoo 18社区版，20260923版
 5. 增加 sphinx 及 tx_client 库，用于文档及翻译
 6. 本地执行 gi.bat，会将原始odoo的最新版clone到本地 .\source_git，执行 gu.bat 更新
 7. 对断点调试的处理， 如果更新了新版odoo，将 .\fixed 目录内容覆盖 .\source 内容
@@ -265,7 +269,7 @@ Odoo 18 发版通知及各种新特性及功能介绍 - 广州欧度智能 | odo
 
 ## 开发
 
-使用pycharm搭建odoo18/17/16等全版本的开发调试环境
+使用pycharm搭建odoo20/19/18/17/16等全版本的开发调试环境
 [https://www.odooai.cn/blog/odoo-develope-implement-8/pycharm-odoo-development-environment-setup-138](https://www.odooai.cn/blog/odoo-develope-implement-8/pycharm-odoo-development-environment-setup-138 odooPycharm)
 
 ## odoo18 在线演示学习，请注册
@@ -275,7 +279,7 @@ Odoo 18 发版通知及各种新特性及功能介绍 - 广州欧度智能 | odo
 .\extra\vcredist_x64.exe
 
 ## 操作说明
-- 启动odoo：执行 r.bat后，访问 http://localhost:8018  或者  http://localhost
+- 启动odoo：执行 r.bat后，访问 http://localhost:8020  或者  http://localhost
 - 更新odoo：执行 s.bat 停止odoo运行后，执行 u.bat。如要手工更新至最新odoo，请至官方下载后覆盖 ./source 目录下文件即可
 - 数据库：demo，底层密码 odoo
 - Odoo管理用户： admin admin
@@ -289,12 +293,12 @@ Odoo 18 发版通知及各种新特性及功能介绍 - 广州欧度智能 | odo
 ├─myaddons  odooai.cn优化模块
 ├─odoofile  odoo生成的静态文件资源
 ├─runtime   运行库，包括pg数据文件
-└─source    Odoo18源码
+└─source    Odoo20源码
 └─source_git    参考的 github 源码
 
 ## 主要文件说明
 odoo.conf   配置
-db.bat  单独启动数据库，用在pycharm中，debug启动时先启用数据库，假设Odoo18是在 d:\Odoo18-x64 目录，如有变化自行更改
+db.bat  单独启动数据库，用在pycharm中，debug启动时先启用数据库，假设Odoo20是在 d:\Odoo20-x64 目录，如有变化自行更改
 ment.bat    将无法在windows处理的企业版模块移出
 r.bat   最常用，odoo服务启动（如果当前有进程则先关闭再启动）
 s.bat 停止
@@ -318,11 +322,11 @@ createuser --createdb --no-createrole --no-superuser --pwprompt odoo
 ```
 
 # 附：如何自行制作绿色安装包
-## 先装 python 3.10.10 ，pip3，用64位。与ubuntu 内置一样版本，改python.exe为python3.exe
+## 先装 python 3.13 ，pip3，用64位。与ubuntu 内置一样版本，改python.exe为python3.exe
 ```
 https://www.python.org/downloads/windows/
-cd d:\Odoo18-x64\runtime\python3
-SET PATH=d:\Odoo18-x64\runtime\python3;d:\Odoo18\runtime\python3\scripts;%PATH%
+cd d:\Odoo20-x64\runtime\python3
+SET PATH=d:\Odoo20-x64\runtime\python3;d:\Odoo20\runtime\python3\scripts;%PATH%
 ```
 
 ## 安装pip
@@ -338,7 +342,7 @@ http://www.lfd.uci.edu/~gohlke/pythonlibs/
 ## 部份要人工下载安装的odoo依赖，已下载放在 ./extra
 ## 优化 requirements.txt 可忽略ms库
 
-## python 3.10.10
+## python 3.13
 ```
 SET PATH=%CD%\runtime\python3;%CD%\runtime\python3\scripts;%PATH%
 pip3 install -r .\source\requirements.txt  -i https://mirrors.aliyun.com/pypi/simple --target=D:\odoo18-x64\runtime\python3\Lib\site-packages --upgrade
